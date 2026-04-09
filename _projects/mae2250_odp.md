@@ -1,12 +1,12 @@
 ---
 layout: project
-title: MAE2250 ODP Client Outline
+title: MAE2250 Open Design Project
 description: [none]
 technologies: [none yet]
 image: /assets/images/engrd2020_project1.png
 --- 
 
-# Your Project Context
+# Project Context
 [put context here]
 
 # table of contents
@@ -16,12 +16,11 @@ image: /assets/images/engrd2020_project1.png
 --- 
 
 # Client Pitch
-# Your Project Title
 
-**Team:** Vine Vanguard
-**Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
+**Team:** Vine Vanguard  
+**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
 
-## Problem statement (most important)
+## Problem statement
 
 Vineyard owners across New York State are affected by the rapid proliferation of Spotted Lanternflies (SLF), which lay egg masses directly on grapevines and nearby surfaces. They are trying to reduce SLF reproduction by destroying egg masses before they hatch. Each female SLF lays 30-120 eggs per year, and heavily infested vineyards can have 400 SLF per vine. This means that eggs are being laid exponentially. Current elimination methods such as crushing egg masses one-by-one is ineffective if they are not fully destroyed, and experimental ovicides kill only up to 75% of eggs (Krawczyk). Even a single surviving egg mass can enable SLF persistence, escalating plant damage and contaminated harvests.
   
@@ -31,12 +30,12 @@ A scalable, systematic method for eliminating large quantities of SLF egg masses
 
 ## Proposed direction(s)
 
-### Mobile Composting Crusher
+**Mobile Composting Crusher**
 A mobile crushing and composting unit designed to move through vineyard rows, collect scraped masses, crush and store remains for compost use. 
 Handles large quantities of eggs, and will be equipped with multiple contingency mechanisms to crush 100% of input masses.
 End-of-semester proof-of-concept: A scaled prototype of the crushing and collecting mechanism, along with basic mobility to drive through vineyard rows.
 
-### Egg Crusher Attachment
+**Egg Crusher Attachment**
 A small, lightweight crushing attachment to integrate with other systems that crush SLF eggs, such as an autonomous drone
 End-of-semester proof-of-concept: A prototype of a compact crushing mechanism that can be mounted onto a flat surface (or future device), and operate while inverted. 
 
