@@ -14,7 +14,6 @@ image: /assets/images/engrd2020_project1.png
 - [Functional Prototype](#functional-prototype)
 
 --- 
-
 # Client Pitch
 
 **Team:** Vine Vanguard  
@@ -47,25 +46,17 @@ End-of-semester proof-of-concept: A prototype of a compact crushing mechanism th
 
 ## Questions for the client
 Focus on questions they can answer from lived experience.
-1. **<Question 1>**  
-   *Decision affected:* <what choice this answer changes for your team.>
-2. **<Question 2>**  
-   *Decision affected:* <what choice this answer changes for your team.>
-3. **<Question 3>**  
-   *Decision affected:* <what choice this answer changes for your team.>
-4. **<Question 4 (optional)>**  
-   *Decision affected:* <what choice this answer changes for your team.>
-
-\newpage
-
-# Optional page 2 — References and/or one figure
-
-## References
-
-- <Source 1 (URL or citation)>
-- <Source 2 (URL or citation)>
+1. **Is a solution that reincorporates crushed egg waste into the vineyard as compost appealing?**  
+   *Decision affected:* This would impact potential usage of chemicals to eliminate the egg masses.
+2. **What is your actual and ideal egg removal rate, per day and/or per acre?**  
+   *Decision affected:* This would allow us to create optimal crushing speed settings.
 
 --- 
 
 # Functional Prototype
+
+
+--- 
+
+# Client Report
 
