@@ -6,12 +6,12 @@ technologies: [none yet]
 image: /assets/images/engrd2020_project1.png
 --- 
 
-# Project Context
-[put context here]
+[put project context here]
 
 # table of contents
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
+- [Client Report](#client-report)
 
 --- 
 # Client Pitch
