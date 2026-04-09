@@ -6,7 +6,11 @@ technologies: [none yet]
 image: assets/images/Capture d’écran 2026-04-09 à 11.54.07.png
 --- 
 
-[put project context here]
+This project is part of the core design assessment for the Mechanical Engineering curriculum at Cornell University, where student teams apply the full engineering design process to a real-world, stakeholder-driven problem. Conducted within the MAE2250 course, the project emphasizes translating user needs into functional requirements, generating and evaluating concepts, and developing a validated proof-of-concept prototype.
+
+Our team, Vine Vanguard, is collaborating with partners including Cornell CALS Extension, E&J Gallo Winery, and National Grape Cooperative Association to address an agricultural challenge affecting vineyards across New York State. These stakeholders bring both technical expertise and lived experience, ensuring that proposed solutions are grounded in real vineyard workflows and constraints.
+
+Within the scope of the course, the team is responsible for defining engineering specifications, iterating on mechanical concepts, and delivering a functional prototype by the end of the semester. The project prioritizes scalability, reliability, and integration into existing vineyard practices.
 
 # Project Contents
 - [Client Pitch](#client-pitch)
