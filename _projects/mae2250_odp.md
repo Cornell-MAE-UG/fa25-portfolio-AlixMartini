@@ -3,12 +3,12 @@ layout: project
 title: MAE2250 Open Design Project
 description: [none]
 technologies: [none yet]
-image: /assets/images/Capture d’écran 2026-04-09 à 11.54.07.png
+image: assets/images/Capture d’écran 2026-04-09 à 11.54.07.png
 --- 
 
 [put project context here]
 
-# table of contents
+# Project Contents
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
 - [Client Report](#client-report)
@@ -54,6 +54,29 @@ Focus on questions they can answer from lived experience.
 --- 
 
 # Functional Prototype
+## Design Tests
+
+## Success Criteria
+### Test 1: Does the device’s assembly of press-fits remain intact during use?
+**How this as tested:** Completely construct device in accordance with intended assembly, including the insertion of the grid mesh, while noting any times where excessive force was required to connect parts. Firmly shake the device for 10 seconds, in upright and inverted positions. Inspect the entire device for any loosened or detached components.
+
+**Results:**
+- Primary Construction: The press-fits for the shaft-spiral and housing-funnel connection were securely fastened without excessive force. The tolerances for the connections between the housing top and bottom were inaccurate, and the two could not be press-fit together. Extra adhesion (duct-tape) was required to secure these two components. The mesh was secured easily into the housing groove. 
+- Post Shake Test: No loosen pieces were found in the device. The connected shaft and spiral slid in and out of the housing bottom when inverted. 
+
+**Required Changes:** In next prototypes, we will alter the CAD geometries for the housing components so that they securely connect via press-fit. 
+
+### Test 2: Does the device’s assembly of press-fits remain intact during use?
+**How this as tested:** Completely construct device in accordance with intended assembly, including the insertion of the grid mesh, while noting any times where excessive force was required to connect parts. Firmly shake the device for 10 seconds, in upright and inverted positions. Inspect the entire device for any loosened or detached components.
+
+**Results:**
+- Primary Construction: The press-fits for the shaft-spiral and housing-funnel connection were securely fastened without excessive force. The tolerances for the connections between the housing top and bottom were inaccurate, and the two could not be press-fit together. Extra adhesion (duct-tape) was required to secure these two components. The mesh was secured easily into the housing groove. 
+- Post Shake Test: No loosen pieces were found in the device. The connected shaft and spiral slid in and out of the housing bottom when inverted. 
+
+**Required Changes:**
+ 
+
+
 
 
 --- 
