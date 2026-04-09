@@ -3,7 +3,7 @@ layout: project
 title: MAE2250 Open Design Project
 description: [none]
 technologies: [none yet]
-image: /assets/images/engrd2020_project1.png
+image: /assets/images/Capture d’écran 2026-04-09 à 11.54.07.png
 --- 
 
 [put project context here]
