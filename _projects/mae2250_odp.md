@@ -95,22 +95,29 @@ This project focuses on designing a device attachment that integrates with an ex
 
 ### Criteria 1: Egg Crushing Effectiveness
 **What it assesses:** the ability of our mechanism to completely and reliably crush inserted masses
+
 **Metric:** ~80% eggs crushed per egg mass
+
 **How it will be measured:**  Insert a standardized number of Orbeez into the device and run the crushing mechanism for a standardized amount of time. After each trial, count total Orbeez inserted and crushed Orbeez after being run through the mechanism. Calculate (crushed/total) x 100 to get the percentage of eggs crushed.
+
 **Exhibit-Day demonstration:** Live crushing of Orbeez demo; Calculate crushing efficiency in real time for observers
 
 ### Criteria 2: Processing Rate (eggs per second)
 **What it assesses:** speed at which device crushes a desired amount of eggs
+
 **Metric:** Assume it takes ~10-20 seconds to hand-scrape an SLF egg mass from an uneven surface and insert the masses into the device’s inlet funnel. Since there are approximately 30-50 eggs per egg mass, we’d want to crush the eggs in the same timescale at which they’re being inputted into the mechanism. So, taking the upper limit, we’d hope to crush 50 eggs in 20 seconds, translating to a processing rate of around 2-3 eggs per second.
+
 **How it will be measured:**  Insert 50 Orbeez into the device. Turn the crushing mechanism on for 20 seconds. Count the number of crushed eggs produced and divide by the processing time to calculate the processing rate. Repeat this process for multiple trials and average. 
 Repeat this trial for greater quantities of eggs over a standardized amount of time. Count the number of crushed eggs produced and calculate the processing rate. Compare to the desired 2-3 eggs per second metric.
+
 **Note:** This would not be tested with our manually controlled prototype, but will be tested when we integrate an electric motor into the device.
 
 ### Criteria 3: Device size and weight
 **What it assesses:** practicality for attachment and field use
-**Metric:** For our device to be easily attachable, we’d want to make it small and lightweight
-Based off sizes of common juicers and electric grinders, as well as accounting for the size of the motor we hope to incorporate into the device, we hope to create a device whose bounding box is less than or equal to 6x6x10 inches
+
+**Metric:** For our device to be easily attachable, we’d want to make it small and lightweight. Based off sizes of common juicers and electric grinders, as well as accounting for the size of the motor we hope to incorporate into the device, we hope to create a device whose bounding box is less than or equal to 6x6x10 inches
 The mechanism is intended to be attached to another device’s frame reasonably. Thus we will base the ideal weight on regular handheld devices such as a computer, making the maximum weight to be 4lbs
+
 **How it will be measured:** After creating our next prototypes, physically measure the size of device using rulers or calipers; Measure the weight of the device using a scale
 
 
