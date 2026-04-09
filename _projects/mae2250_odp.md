@@ -54,6 +54,12 @@ Focus on questions they can answer from lived experience.
 --- 
 
 # Functional Prototype
+## Design Documentation
+![parts list](image path)
+
+![prototype 1 dissassembled](assets/images/prototype 1_parts.png)
+![prototype 1 assembled](assets/images/prototype 1_assembled.png)
+
 ## Design Tests
 
 ### Test 1: Does the device’s assembly of press-fits remain intact during use?
