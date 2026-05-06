@@ -134,4 +134,28 @@ The mechanism is intended to be attached to another device’s frame reasonably.
 --- 
 
 # Client Report
+## Problem Statement and Context
+
+Vineyard owners across New York State are affected by the rapid spread of Spotted Lanternflies
+(SLF, whose presence in the Lake Erie and Finger Lakes regions alone could have projected losses reaching approximately $8.8 million within three years [1]. A single SLF egg mass contains 30-50 eggs, and populations can spread rapidly across large areas of vineyard land. To effectively address this spread, reduce proliferation, and prevent these economic losses from spreading to other parts of the nation, these invasive insects should be targeted while in their egg stage. Destroying eggs prevents the flies from maturing into reproductive adults, reducing the number of SLF that will lay future egg masses and limiting their exponential population growth. Our team focused on developing a mechanical solution for large-scale egg mass destruction that can be deployed at the vineyard level.
+Current elimination methods are not suitable for addressing large-scale SLF populations.
+Manually crushing individual egg masses is time-consuming and inconsistent. Submersion into rubbing alcohol requires constant refilling and storage capacity. Experimental oil ovicides are only effective on 75% of eggs [2]. Additional consideration must be given to the consequences of ineffective elimination, as even one surviving egg mass can enable SLF persistence, escalating plant damage and contaminated harvests.
+There is a need for a systematic method for eliminating large quantities of SLF egg masses that can be integrated into existing collection workflows. This method must be consistently effective, practical for real-world use, while minimizing storage, disposal, and labor demands on vineyard operations during implementation.
+
+## Final Prototype and Application
+We developed a device that mechanically crushes eggs, utilizing a juicer-inspired crushing mechanism.
+How it works:
+- Eggs masses enter the mesh cylinder chamber through an inlet funnel.
+- A rotating spiral, driven by an electric motor, transports the egg masses downward while simultaneously pressing the eggs against the mesh cylinder, where the crushing occurs.
+- A sweeper attached to the rotating spiral pushes crushed eggs towards a hole in the bottom of the mesh housing, falling out of the device through an outlet funnel.
+This device will be deployed in the field alongside the given collection method that best suits the vineyard's needs, such as a manual scraper or an autonomous scraping robot. The device is modular, such that its method of accepting and ejecting egg masses can be easily changed
+
+## Conclusion and Reccomendation
+We would recommend the continued research and development of the Egg Crusher for applications in vineyards. The device in its current form is a successful proof of concept for a scalable, efficient, and practical egg extermination method, demonstrating basic mechanical motion. Its ~80% crushing efficiency is on par with current methods, without the drawbacks of consistent maintenance or manual labor. Additionally, its 100% efficiency for ejecting crushed eggs of a standardized diameter suggests the crushed eggs can be re-incorporated into the ecosystem as a compost ingredient if desired by the vineyard owners.
+We would suggest three primary redesigns in future phases of this project:
+1. Spiral and sweeper geometry. Pitch angle, spiral diameter, and other features can be optimized to
+Features can be optimized 1o
+improve crushing efficiency and properly push the crushed eggs towards the outlet funnel.
+2. Compactness. The system can be scaled down to reduce weight and improve portability, making it easier to deploy in the field alongside a collection device.
+3. Contingency mechanisms. Incorporating multiple built-in crushing mechanisms arranged in a linear series can improve crushing efficiency, as eggs not crushed by the first spiral will be crushed by the second crushing mechanism right below.
 
