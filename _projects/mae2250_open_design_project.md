@@ -15,8 +15,8 @@ image: /assets/images/Capture d’écran 2026-04-09 à 11.54.07.png
 # Project Context
 
 # Project Outline 
-- [Client Pitch] (#client-pitch)
-- [Functional Prototype] (#functional-prototype)
+- [Client Pitch](#client-pitch)
+- [Functional Prototype](#functional-prototype)
 
 ## Problem statement
 
